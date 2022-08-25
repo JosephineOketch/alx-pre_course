@@ -1,1 +1,1 @@
-my second commit
+Hey, I'm just learning to code.
